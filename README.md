@@ -57,6 +57,18 @@ In essence, set theory provides a structured way to organize and represent infor
 
 ## Natural Deduction
 
+[Natural Deduction proofs](https://www.youtube.com/watch?v=kFPlW-Lr6NA).
+
 ## PROLOG
 
+Prolog, short for "Programming in Logic," is a programming language designed for dealing with symbolic reasoning and problem-solving. Unlike traditional languages, Prolog is distinctive in its focus on logic and the manipulation of knowledge represented in the form of facts and rules.
+The language is used in areas such as artificial intelligence, natural language processing, and expert systems.
+Another interesting language is LISP, which is a functional programming language based on lambda calculus.
+
+[Prolog tutorial](https://www.youtube.com/watch?v=SykxWpFwMGs&t=913s)
+
 ## LaTeX
+
+LaTeX is a typesetting system widely used for creating documents with complex formatting, particularly in academia and technical fields.
+Favored for its versatility and ability to handle mathematical equations and scientific notations seamlessly, so it is able to write nicely formulas used in Logic and logical proofs.
+[Intro to LaTeX](https://www.youtube.com/watch?v=Jp0lPj2-DQA)
