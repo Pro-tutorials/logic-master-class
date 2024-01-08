@@ -31,14 +31,16 @@ We can write:
 The first sentence is: "George W. Bush is the 43rd President"
 The second sentence is: "Paris is the capital of France"
 
-When dealing with Propositional Logic is important to learn about truth tables.  
+When dealing with Propositional Logic is important to learn about truth tables.
+
 [An Introduction to Propositional Logic](https://www.youtube.com/watch?v=5NGKbiA04Cw)  
 [Truth tables](https://www.youtube.com/watch?v=i0XSMbegBPc).
 
 ## Predicative Logic
 
 Predicative or Predicate Logic. If Propositional Logic is like dealing with simple building blocks, then predicate logic is like putting those blocks together to create more complex structures.
-Predicate Logic allows us to use variables and quantifiers (like "some" or "all") to talk about relationships and properties.  
+Predicate Logic allows us to use variables and quantifiers (like "some" or "all") to talk about relationships and properties.
+
 [Predicate Logic](https://www.youtube.com/watch?v=hVq2A-0Wkfw)
 
 ## Set theory
@@ -61,7 +63,9 @@ In essence, set theory provides a structured way to organize and represent infor
 Natural Deduction is a logical framework used to construct and analyze arguments. Unlike formal systems with complex rules, Natural Deduction aims to mirror the way humans naturally reason.
 In Natural Deduction, reasoning is expressed through a series of steps, each justified by specific rules. These rules encompass fundamental principles like modus ponens (if A, then B, and A is true, then B must be true) and introduction/elimination rules for logical connectives (like "and" or "or").
 
-[Natural Deduction proofs](https://www.youtube.com/watch?v=kFPlW-Lr6NA).
+[Natural Deduction](https://en.wikipedia.org/wiki/Natural_deduction).  
+[Natural Deduction proofs](https://www.youtube.com/watch?v=kFPlW-Lr6NA).  
+[examples](https://www.youtube.com/watch?v=6o1kLNEE-d4&list=PLF_J2w5w0Z3E7jZGz-23P6WrKxokXBkHC)
 
 ## PROLOG
 
@@ -76,4 +80,5 @@ Another interesting language is LISP, which is a functional programming language
 LaTeX is a typesetting system widely used for creating documents with complex formatting, particularly in academia and technical fields.
 Favored for its versatility and ability to handle mathematical equations and scientific notations seamlessly, so it can write nice formulas used in Logic and logical proofs.
 
-[Intro to LaTeX](https://www.youtube.com/watch?v=Jp0lPj2-DQA)
+[Intro to LaTeX](https://www.youtube.com/watch?v=Jp0lPj2-DQA).  
+[ LaTeX for Natural Deduction](https://www.logicmatters.net/latex-for-logicians/nd/)
