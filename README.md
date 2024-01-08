@@ -31,17 +31,27 @@ We can write:
 The first sentence is: "George W. Bush is the 43rd President"
 The second sentence is: "Paris is the capital of France"
 
-When dealing with Propositional Logic is important to learn about truth tables.
-[An Introduction to Propositional Logic](https://www.youtube.com/watch?v=5NGKbiA04Cw)
-[Truth tables](https://www.youtube.com/watch?v=i0XSMbegBPc)
+When dealing with Propositional Logic is important to learn about truth tables.  
+[An Introduction to Propositional Logic](https://www.youtube.com/watch?v=5NGKbiA04Cw)  
+[Truth tables](https://www.youtube.com/watch?v=i0XSMbegBPc).
 
 ## Predicative Logic
 
 Predicative or Predicate Logic. If Propositional Logic is like dealing with simple building blocks, then predicate logic is like putting those blocks together to create more complex structures.
-Predicate Logic allows us to use variables and quantifiers (like "some" or "all") to talk about relationships and properties.
+Predicate Logic allows us to use variables and quantifiers (like "some" or "all") to talk about relationships and properties.  
 [Predicate Logic](https://www.youtube.com/watch?v=hVq2A-0Wkfw)
 
 ## Set theory
+
+Set theory is like the language of mathematics, and it plays a crucial role in logical reasoning. Imagine sets as collections of things, like a bag of marbles or a group of numbers. Set theory helps us describe, organize, and manipulate these collections logically.
+
+In set theory, elements are the individual things in a set, and we can combine sets, find their intersections, or compare their sizes. For example, we might have a set of even numbers or a set of animals with fur.
+
+Now, here's where it gets interesting—set theory is closely linked to logic because it provides a formal way to represent logical relationships. We use sets to model ideas and statements. If we say "All dogs are mammals," we can represent dogs and mammals as sets and see how they overlap.
+
+Logical operations, like "and," "or," and "not," can be translated into set operations, creating a bridge between set theory and logic. For instance, the intersection of two sets corresponds to the logical "and" operation.
+
+In essence, set theory provides a structured way to organize and represent information, making it a powerful tool in logical thinking. The connection between set theory and logic is so strong that they often go hand in hand, working together to help us reason, analyze, and understand the world around us.
 
 ## Natural Deduction
 
