@@ -57,6 +57,9 @@ In essence, set theory provides a structured way to organize and represent infor
 
 ## Natural Deduction
 
+Natural Deduction is a logical framework used to construct and analyze arguments. Unlike formal systems with complex rules, Natural Deduction aims to mirror the way humans naturally reason.
+In Natural Deduction, reasoning is expressed through a series of steps, each justified by specific rules. These rules encompass fundamental principles like modus ponens (if A, then B, and A is true, then B must be true) and introduction/elimination rules for logical connectives (like "and" or "or").
+
 [Natural Deduction proofs](https://www.youtube.com/watch?v=kFPlW-Lr6NA).
 
 ## PROLOG
