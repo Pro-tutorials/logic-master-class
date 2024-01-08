@@ -11,7 +11,26 @@ We'll explore the basics.
 ## Propositional Logic
 
 Propositional Logic is like the building blocks of logical thinking.
-It deals with simple statements, or propositions, and how we can combine them to form more complex ideas. These propositions can be true or false.
+It deals with simple statements, sentences, assertions or propositions (all synonyms), and how we can combine them to form more complex ideas. These propositions can be true or false.
+
+Examples of proposition are : "Every human is mortal", "Marty has a dog", "If it rains, I will take my umbrella", "Paris is the capital of France", "George W. Bush is the 43rd President of the United States".
+
+The following are not propositions: "I hope you will pass the exam", "Are you tired?", "I think that all the crows are black".
+
+A statement/proposition can be defined as a declarative sentence, or part of a sentence, that is capable of having a truth-value, such as being true or false.
+
+Example: the proposition "Marty has a dog" (symbolised with a letter of the alphabet, P, for example) is true if Marty has a dog and False, otherwise.
+
+We can write:
+
+- "Marty has a dog" is true if and only if Marty has a dog
+- P is true if and only if Marty has a dog.
+
+"George W. Bush is the 43rd President of the United States and Paris is the capital of France" It's a statement formed by 2 statements linked by an 'and'.
+
+The first sentence is : "George W. Bush is the 43rd President"
+The second sentence is: "Paris is the capital of France"
+
 When dealing with Propositional Logic is important to learn about truth tables.
 [Truth tables](https://www.youtube.com/watch?v=i0XSMbegBPc)
 
