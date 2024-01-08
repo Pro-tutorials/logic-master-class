@@ -74,6 +74,6 @@ Another interesting language is LISP, which is a functional programming language
 ## LaTeX
 
 LaTeX is a typesetting system widely used for creating documents with complex formatting, particularly in academia and technical fields.
-Favored for its versatility and ability to handle mathematical equations and scientific notations seamlessly, so it is able to write nicely formulas used in Logic and logical proofs.
+Favored for its versatility and ability to handle mathematical equations and scientific notations seamlessly, so it can write nice formulas used in Logic and logical proofs.
 
 [Intro to LaTeX](https://www.youtube.com/watch?v=Jp0lPj2-DQA)
