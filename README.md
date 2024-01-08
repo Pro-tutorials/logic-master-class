@@ -28,13 +28,18 @@ We can write:
 
 "George W. Bush is the 43rd President of the United States and Paris is the capital of France" It's a statement formed by 2 statements linked by an 'and'.
 
-The first sentence is : "George W. Bush is the 43rd President"
+The first sentence is: "George W. Bush is the 43rd President"
 The second sentence is: "Paris is the capital of France"
 
 When dealing with Propositional Logic is important to learn about truth tables.
+[An Introduction to Propositional Logic](https://www.youtube.com/watch?v=5NGKbiA04Cw)
 [Truth tables](https://www.youtube.com/watch?v=i0XSMbegBPc)
 
 ## Predicative Logic
+
+Predicative or Predicate Logic. If Propositional Logic is like dealing with simple building blocks, then predicate logic is like putting those blocks together to create more complex structures.
+Predicate Logic allows us to use variables and quantifiers (like "some" or "all") to talk about relationships and properties.
+[Predicate Logic](https://www.youtube.com/watch?v=hVq2A-0Wkfw)
 
 ## Set theory
 
