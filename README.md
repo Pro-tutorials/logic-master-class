@@ -1,2 +1,3 @@
-# logic
-# logic
+# Logic
+
+## What is Logic?
