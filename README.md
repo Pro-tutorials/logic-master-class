@@ -51,7 +51,8 @@ Now, here's where it gets interesting—set theory is closely linked to logic be
 
 Logical operations, like "and," "or," and "not," can be translated into set operations, creating a bridge between set theory and logic. For instance, the intersection of two sets corresponds to the logical "and" operation.
 
-In essence, set theory provides a structured way to organize and represent information, making it a powerful tool in logical thinking. The connection between set theory and logic is so strong that they often go hand in hand, working together to help us reason, analyze, and understand the world around us.  
+In essence, set theory provides a structured way to organize and represent information, making it a powerful tool in logical thinking. The connection between set theory and logic is so strong that they often go hand in hand, working together to help us reason, analyze, and understand the world around us.
+
 [ Set Theory Introduction](https://www.youtube.com/watch?v=yCwnifwVjIg).  
 [Venn Diagrams](https://www.youtube.com/watch?v=Bd51PAWYpCQ&list=PLlDk-vkPxtot9upVig7vEMKXwtE6q51_N&index=2)
 
@@ -73,5 +74,6 @@ Another interesting language is LISP, which is a functional programming language
 ## LaTeX
 
 LaTeX is a typesetting system widely used for creating documents with complex formatting, particularly in academia and technical fields.
-Favored for its versatility and ability to handle mathematical equations and scientific notations seamlessly, so it is able to write nicely formulas used in Logic and logical proofs.  
+Favored for its versatility and ability to handle mathematical equations and scientific notations seamlessly, so it is able to write nicely formulas used in Logic and logical proofs.
+
 [Intro to LaTeX](https://www.youtube.com/watch?v=Jp0lPj2-DQA)
